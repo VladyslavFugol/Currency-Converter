@@ -1,0 +1,24 @@
+@import 'src/styles/variables';
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: $black-200;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.form {
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
