@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TestTask_ITOP1000/static/css/main.875e2e24.css",
+    "main.js": "/TestTask_ITOP1000/static/js/main.56a98e61.js",
+    "static/media/arrows.svg": "/TestTask_ITOP1000/static/media/arrows.478bc36ed5ff4790f67b5472b85faed7.svg",
+    "index.html": "/TestTask_ITOP1000/index.html",
+    "static/media/error-icon.svg": "/TestTask_ITOP1000/static/media/error-icon.c0372496a231689520b5a08ca81d9d2c.svg",
+    "main.875e2e24.css.map": "/TestTask_ITOP1000/static/css/main.875e2e24.css.map",
+    "main.56a98e61.js.map": "/TestTask_ITOP1000/static/js/main.56a98e61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.875e2e24.css",
+    "static/js/main.56a98e61.js"
+  ]
+}
